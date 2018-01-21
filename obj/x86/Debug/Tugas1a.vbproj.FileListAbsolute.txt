@@ -1,0 +1,40 @@
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\bin\Debug\Tugas1a.exe.manifest
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\bin\Debug\Tugas1a.application
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\bin\Debug\Tugas1a.exe
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\bin\Debug\Tugas1a.pdb
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\bin\Debug\Tugas1a.xml
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\obj\x86\Debug\WindowsApplication1.Perhitungan_Jarak.resources
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\obj\x86\Debug\Tugas1a.vbproj.GenerateResource.Cache
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\obj\x86\Debug\Tugas1a.exe.manifest
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\obj\x86\Debug\Tugas1a.application
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\obj\x86\Debug\Tugas1a.exe
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\obj\x86\Debug\Tugas1a.xml
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\obj\x86\Debug\Tugas1a.pdb
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\Tugas1a.vbproj.GenerateResource.Cache
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\bin\Debug\Perhitungan Jarak.exe.manifest
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\bin\Debug\Perhitungan Jarak.application
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\bin\Debug\Perhitungan Jarak.exe
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\bin\Debug\Perhitungan Jarak.pdb
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\bin\Debug\Perhitungan Jarak.xml
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\RifkiFauziApps.Perhitungan_Jarak.resources
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\RifkiFauziApps.Resources.resources
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\Perhitungan Jarak.exe.manifest
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\Perhitungan Jarak.application
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\Perhitungan Jarak.exe
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\Perhitungan Jarak.xml
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\Perhitungan Jarak.pdb
+D:\PRAKTIKUM\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\Perhitungan Jarak.exe
+D:\PRAKTIKUM\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\Perhitungan Jarak.xml
+D:\PRAKTIKUM\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\Perhitungan Jarak.pdb
+D:\PRAKTIKUM\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\RifkiFauziApps.Perhitungan_Jarak.resources
+D:\PRAKTIKUM\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\RifkiFauziApps.Resources.resources
+D:\PRAKTIKUM\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\Tugas1a.vbproj.GenerateResource.Cache
+D:\PRAKTIKUM\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\Perhitungan Jarak.TrustInfo.xml
+D:\PRAKTIKUM\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\bin\Debug\Perhitungan Jarak.exe.manifest
+D:\PRAKTIKUM\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\bin\Debug\Perhitungan Jarak.application
+D:\PRAKTIKUM\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\bin\Debug\Perhitungan Jarak.exe
+D:\PRAKTIKUM\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\bin\Debug\Perhitungan Jarak.pdb
+D:\PRAKTIKUM\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\bin\Debug\Perhitungan Jarak.xml
+D:\PRAKTIKUM\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\Perhitungan Jarak.exe.manifest
+D:\PRAKTIKUM\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Debug\Perhitungan Jarak.application

@@ -1,0 +1,20 @@
+C:\Users\rifkifau\Desktop\Project VB\1\Tugas1a\obj\x86\Debug\Perhitungan Jarak.exe
+C:\Users\rifkifau\Desktop\Project VB\1\Tugas1a\obj\x86\Debug\Perhitungan Jarak.xml
+C:\Users\rifkifau\Desktop\Project VB\1\Tugas1a\obj\x86\Debug\Perhitungan Jarak.pdb
+C:\Users\rifkifau\Desktop\Project VB\1\jarak\obj\x86\Debug\Perhitungan Jarak.exe
+C:\Users\rifkifau\Desktop\Project VB\1\jarak\obj\x86\Debug\Perhitungan Jarak.xml
+C:\Users\rifkifau\Desktop\Project VB\1\jarak\obj\x86\Debug\Perhitungan Jarak.pdb
+C:\Users\rifkifau\Desktop\Project VB\1\jarak\bin\Debug\Perhitungan Jarak.exe.manifest
+C:\Users\rifkifau\Desktop\Project VB\1\jarak\bin\Debug\Perhitungan Jarak.application
+C:\Users\rifkifau\Desktop\Project VB\1\jarak\bin\Debug\Perhitungan Jarak.exe
+C:\Users\rifkifau\Desktop\Project VB\1\jarak\bin\Debug\Perhitungan Jarak.pdb
+C:\Users\rifkifau\Desktop\Project VB\1\jarak\bin\Debug\Perhitungan Jarak.xml
+C:\Users\rifkifau\Desktop\Project VB\1\jarak\obj\x86\Debug\RifkiFauziApps.Perhitungan_Jarak.resources
+C:\Users\rifkifau\Desktop\Project VB\1\jarak\obj\x86\Debug\RifkiFauziApps.Resources.resources
+C:\Users\rifkifau\Desktop\Project VB\1\jarak\obj\x86\Debug\jarak.vbproj.GenerateResource.Cache
+C:\Users\rifkifau\Desktop\Project VB\1\jarak\obj\x86\Debug\Perhitungan Jarak.TrustInfo.xml
+C:\Users\rifkifau\Desktop\Project VB\1\jarak\obj\x86\Debug\Perhitungan Jarak.exe.manifest
+C:\Users\rifkifau\Desktop\Project VB\1\jarak\obj\x86\Debug\Perhitungan Jarak.application
+C:\Users\rifkifau\Source\Repos\jarak-sebenarnya\obj\x86\Debug\Perhitungan Jarak.exe
+C:\Users\rifkifau\Source\Repos\jarak-sebenarnya\obj\x86\Debug\Perhitungan Jarak.xml
+C:\Users\rifkifau\Source\Repos\jarak-sebenarnya\obj\x86\Debug\Perhitungan Jarak.pdb

@@ -1,0 +1,16 @@
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\bin\Release\Tugas1a.exe.manifest
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\bin\Release\Tugas1a.application
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\bin\Release\Tugas1a.exe
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\bin\Release\Tugas1a.pdb
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\bin\Release\Tugas1a.xml
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\obj\x86\Release\WindowsApplication1.Perhitungan_Jarak.resources
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\obj\x86\Release\WindowsApplication1.Resources.resources
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\obj\x86\Release\Tugas1a.vbproj.GenerateResource.Cache
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\obj\x86\Release\Tugas1a.exe.manifest
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\obj\x86\Release\Tugas1a.application
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\obj\x86\Release\Tugas1a.exe
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\obj\x86\Release\Tugas1a.xml
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas1a\Tugas1a\obj\x86\Release\Tugas1a.pdb
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Release\Tugas1a.exe
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Release\Tugas1a.xml
+E:\Kuliah\Praktikum\Laporan\Pemprogaman Spasial\HP dan Tugas Acara 1\Tugas2a\Tugas1a\obj\x86\Release\Tugas1a.pdb
