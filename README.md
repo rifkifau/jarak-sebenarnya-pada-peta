@@ -1,5 +1,5 @@
 # Aplikasi Perhitungan Jarak Sebenarnya pada Peta
-Perhitungan jarak sebenarnya antarobyek pada peta, baik tanpa maupun dengan mempertimbangkan nilai faktor skala.
+Digunakan untuk melakukan perhitungan jarak sebenarnya antarobyek pada peta, baik tanpa maupun dengan mempertimbangkan nilai faktor skala (<i>scale factor</i>).
 
 ## Installasi
 Untuk menginstall, silakan download installernya di sini: [releases page](https://github.com/rifkifau/jarak-sebenarnya-pada-peta/releases)
